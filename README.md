@@ -32,14 +32,6 @@ Clone the repository:
 git clone https://github.com/YourUsername/HPCL-GreenEnergy-Model.git
 cd HPCL-GreenEnergy-Model
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-Configure ThingsBoard API:
-
-Replace YOUR_ACCESS_TOKEN in config.py with your valid access token.
-
 Usage
 
 Simulate and send sensor data to ThingsBoard:
