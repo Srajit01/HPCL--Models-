@@ -25,41 +25,4 @@ Pandas/Numpy – Data processing and predictive analytics.
 
 Matplotlib/Seaborn – Data visualization and reporting.
 
-Installation
 
-Clone the repository:
-
-git clone https://github.com/YourUsername/HPCL-GreenEnergy-Model.git
-cd HPCL-GreenEnergy-Model
-
-Usage
-
-Simulate and send sensor data to ThingsBoard:
-
-python send_data.py
-
-Run the Biofuel Predictor:
-
-python biofuel_predictor.py
-
-Monitor Hydrogen Dispensing:
-
-python hydrogen_dispense.py
-
-Data Flow
-
-Sensor data is collected and transmitted to ThingsBoard.
-
-Predictive models analyze data and forecast fuel production/capacity.
-
-Visualized results are displayed on ThingsBoard dashboards for real-time monitoring.
-
-Project Goals
-
-Enhance HPCL's renewable energy storage and distribution capabilities.
-
-Develop accurate predictive models to reduce inefficiencies in fuel production.
-
-Facilitate seamless data input and transmission across IoT-enabled infrastructure.
-
-Contributing
