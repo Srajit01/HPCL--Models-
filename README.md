@@ -19,8 +19,11 @@ This code uses linear regression to model the relationship between energy input 
 
 What It Shows:
 Linear Relationship: The code assumes a linear relationship between energy input and hydrogen output.
+
 Prediction: It demonstrates how to use a trained linear regression model to predict outputs for new input values.
+
 Machine Learning Application: This is a simple yet practical example of applying machine learning to a real-world energy production scenario.
+
 Example Output:
 If the relationship holds, the model predicts the hydrogen output for 100 kWh of energy to be around 1.8 kg, continuing the linear trend from the provided data.
 
