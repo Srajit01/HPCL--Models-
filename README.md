@@ -7,17 +7,17 @@ This project is part of HPCL's green energy expansion initiative, focusing on th
 
 **Key Features**
 
-**Hydrogen Dispensing System:** Simulates and monitors hydrogen dispensing processes to ensure efficient and safe fuel distribution.
+**1) Hydrogen Dispensing System:** Simulates and monitors hydrogen dispensing processes to ensure efficient and safe fuel distribution.
 
-Biofuel Predictor:** Predicts biofuel production and capacity based on input data, allowing for resource planning and storage optimization.
+**2) Biofuel Predictor:** Predicts biofuel production and capacity based on input data, allowing for resource planning and storage optimization.
 
-**Data Transmission System:** Collects, transmits, and stores telemetry data from sensors to ThingsBoard for real-time monitoring and visualization.
+**3) Data Transmission System:** Collects, transmits, and stores telemetry data from sensors to ThingsBoard for real-time monitoring and visualization.
 
-**Hydrogen Production Prediction Using Linear Regression :**
+**4) Hydrogen Production Prediction Using Linear Regression :**
 
 This code uses linear regression to model the relationship between energy input (kWh) and hydrogen output (kg) in a hydrogen production system. By training the model on given data points, it predicts the amount of hydrogen produced when the energy input is 100 kWh.
 
-**"Arduino Sensor Data Logger for Hydrogen System".**
+**"5) Arduino Sensor Data Logger for Hydrogen System".**
 
 **What the Code Does:**
 The code reads data from three analog sensors connected to an Arduino (or compatible microcontroller) to monitor the temperature, pressure, and flow rate of a system, likely related to hydrogen production or dispensing. The sensors output analog signals, which are then converted to meaningful physical quantities (temperature in °C, pressure in bar, and flow rate in L/min).
