@@ -17,6 +17,11 @@ Biofuel Predictor:** Predicts biofuel production and capacity based on input dat
 
 This code uses linear regression to model the relationship between energy input (kWh) and hydrogen output (kg) in a hydrogen production system. By training the model on given data points, it predicts the amount of hydrogen produced when the energy input is 100 kWh.
 
+**"Arduino Sensor Data Logger for Hydrogen System".**
+
+**What the Code Does:**
+The code reads data from three analog sensors connected to an Arduino (or compatible microcontroller) to monitor the temperature, pressure, and flow rate of a system, likely related to hydrogen production or dispensing. The sensors output analog signals, which are then converted to meaningful physical quantities (temperature in °C, pressure in bar, and flow rate in L/min).
+
 What It Shows:
 Linear Relationship: The code assumes a linear relationship between energy input and hydrogen output.
 
