@@ -13,7 +13,8 @@ Biofuel Predictor: Predicts biofuel production and capacity based on input data,
 
 Data Transmission System: Collects, transmits, and stores telemetry data from sensors to ThingsBoard for real-time monitoring and visualization.
 
-Hydrogen Production Prediction Using Linear Regression"
+Hydrogen Production Prediction Using Linear Regression :
+
 This code uses linear regression to model the relationship between energy input (kWh) and hydrogen output (kg) in a hydrogen production system. By training the model on given data points, it predicts the amount of hydrogen produced when the energy input is 100 kWh.
 
 What It Shows:
