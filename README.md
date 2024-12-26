@@ -7,8 +7,8 @@ This project is part of HPCL's green energy expansion initiative, focusing on th
 
 **Key Features**
 
-**Hydrogen Dispensing System: **Simulates and monitors hydrogen dispensing processes to ensure efficient and safe fuel distribution.
-**
+**Hydrogen Dispensing System:** Simulates and monitors hydrogen dispensing processes to ensure efficient and safe fuel distribution.
+
 Biofuel Predictor:** Predicts biofuel production and capacity based on input data, allowing for resource planning and storage optimization.
 
 **Data Transmission System:** Collects, transmits, and stores telemetry data from sensors to ThingsBoard for real-time monitoring and visualization.
